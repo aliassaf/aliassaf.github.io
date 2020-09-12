@@ -1,0 +1,59 @@
+body {
+  background-color: #f8f8f8;
+  margin: 0px;
+}
+
+.container {
+  max-width: 720px;
+  background-color: #ffffff;
+  padding: 0px 50px;
+}
+
+.header {
+  background-image: url("header.jpg");
+  background-position: right top;
+  height: 250px;
+  margin: 0px -50px 10px -50px;
+}
+
+.nav {
+  margin-bottom: 5ex;
+}
+
+.footer {
+  text-align: center
+  font-size: 0.5ex;
+  color: gray;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+p {
+  margin: 3ex 0em;
+}
+
+pre {
+  /* Replace pre background by code background */
+  padding : 0px;
+}
+
+pre code {
+  /* Replace pre background by code background */
+  background-color: none;
+  padding: 16px !important;
+
+  /* Override Bootstrap font */
+  font-family: monospace;
+
+  /* Use horizontal scrollbar for overflow */
+  overflow: auto;
+  word-wrap: normal;
+  white-space: pre;
+}
+
