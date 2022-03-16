@@ -6,7 +6,7 @@ Before joining Google, I did research in theoretical computer science. I receive
 
 My general research topics are **programming languages**, **logic**, and **computation**. I am interested in the links between programming and logic, in the design and implementation of programming languages, and the development of tools for the verification of programs and the formalization of mathematics. My weapon of choice is formal methods, in particular *type systems* and *proof theory*.
 
-Here is my CV in [English](cv-en.pdf).
+Here is my CV in [English](ali-assaf-cv-english.pdf).
 
 ## Contact
 
