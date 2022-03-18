@@ -110,4 +110,4 @@ grids of any size, be it 3x3, 5x5, or even 2x3, all in less than 100 lines, doct
 
 Thanks to Winfried Plappert and David Goodger for their comments and improvement suggestions.
 
-_Originally published at https://www.cs.mcgill.ca/~aassaf9/python/algorithm_x.html_
+_Originally published at: [www.cs.mcgill.ca/~aassaf9/python/algorithm_x](https://www.cs.mcgill.ca/~aassaf9/python/algorithm_x.html)_

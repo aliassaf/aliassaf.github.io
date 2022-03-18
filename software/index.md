@@ -9,7 +9,7 @@
 
 ### Side projects
 
-* [Algorithm X](algorithm-x): an original and lightweight implementation of Knuth's [Algorithm X](http://en.wikipedia.org/wiki/Knuth%27s_Algorithm_X) in Python.
+* [Algorithm X in 30 lines](algorithm-x): an original and lightweight implementation of Knuth's [Algorithm X](http://en.wikipedia.org/wiki/Knuth%27s_Algorithm_X) in Python.
 * [Prime numbers](generating-primes): simple and efficient prime number generation in Python.
 * [Preparen](https://github.com/aliassaf/preparen): a Latex package for pretty-printing precedence parentheses.
 
